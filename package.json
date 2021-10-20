@@ -1,0 +1,25 @@
+{
+  "name": "bellshade",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-animate-height": "^2.0.23",
+    "react-dom": "17.0.2",
+    "react-slick": "^0.28.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "eslint": "8.0.1",
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.10",
+    "tailwindcss": "^2.2.17"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/assets/carousel/js-500x350.jpg",
+    "category": "BASIC",
+    "repo": "Javascript",
+    "description": "Repositori ini berisi kumpulan dari berbagai macam script struktur data dan algoritma yang diimplementasikan dengan menggunakan bahasa pemrograman Javascript."
+  },
+  {
+    "image": "/assets/carousel/ts-500x350.jpg",
+    "category": "BASIC",
+    "repo": "Typescript",
+    "description": "Repositori ini berisi kumpulan dari berbagai macam script struktur data, algoritma, analisis matematika dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman TypeScript."
+  },
+  {
+    "image": "/assets/carousel/php-500x350.jpg",
+    "category": "BASIC",
+    "repo": "PHP",
+    "description": "Repositori ini berisi kumpulan dari berbagai macam contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman PHP."
+  },
+  {
+    "image": "/assets/carousel/python-500x350.jpg",
+    "category": "BASIC",
+    "repo": "Python",
+    "description": "Repositori ini berisi kumpulan dari berbagai macam contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Python."
+  }
+]
